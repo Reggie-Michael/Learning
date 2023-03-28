@@ -1,4 +1,4 @@
 # Learning
 Practice
-classes on coding
+classes on coding, 
 more edits to come as i learn more about github
